@@ -1,3 +1,5 @@
+yandex.com, 308997165, DIRECT
+yango-ads.com, 308997165, DIRECT
 yandex.com, 312236321, DIRECT
 yango-ads.com, 312236321, DIRECT
 rubiconproject.com, 27969, RESELLER, 0bfd66d529a55807
