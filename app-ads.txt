@@ -806,6 +806,7 @@ zmaticoo.com, 60055, DIRECT
 video.unrulymedia.com, 809865099, RESELLER
 yeahmobi.com, 114490, RESELLER
 yandex.com, 63904735, RESELLER
+yandex.com, 312189115, DIRECT
 caerulus.io, 3320-37140, RESELLER
 admanmedia.com, 2269, RESELLER
 adagio.io, 1280, RESELLER
@@ -1827,6 +1828,7 @@ pubmatic.com, 164125, RESELLER, 5d62403b186f2ace
 richaudience.com, TAOhExKGcr, RESELLER
 pubmatic.com, 159277, RESELLER, 5d62403b186f2ace
 spinx.biz, 1485279342, DIRECT
+spinx.biz, 1373698900, RESELLER
 rubiconproject.com, 26566, RESELLER, 0bfd66d529a55807
 target.vk.ru, 13867164, DIRECT
 contextweb.com, 562615, RESELLER, 89ff185a4c4e857c
@@ -2195,6 +2197,7 @@ sonobi.com, 78fc1c95fe, RESELLER, d1a215d9eb5aee9e
 cinemoon.tv, c6005, DIRECT
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 yango-ads.com, 308997165, DIRECT
+yango-ads.com, 312189115, DIRECT
 pangleglobal.com, 55191, RESELLER
 inmobi.com, cac51fe616224c3c8f858f34b3267dd7, RESELLER, 83e75a7ae333ca9d
 rubiconproject.com, 19724, RESELLER
